@@ -1,0 +1,24 @@
+{
+  "name": "node-auth-with-jwt",
+  "version": "1.0.0",
+  "description": "JWT TOken and auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshbhatt01/NODE-Auth-with-JWT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshbhatt01/NODE-Auth-with-JWT/issues"
+  },
+  "homepage": "https://github.com/harshbhatt01/NODE-Auth-with-JWT#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
